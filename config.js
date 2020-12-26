@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://sabeelasharaph.netlify.app/',
   pathPrefix: '/',
-  title: 'Blog by Sabeel Asharaph',
+  title: 'Blog by Sabeel',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Sabeel Asharaph',
+    name: 'Sabeel',
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
