@@ -1,11 +1,11 @@
 ---
-title: The Origins of Social Stationery Lettering
+title: how i\'m feeling now Album Review
 date: "2016-12-01T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "the-origins-of-social-stationery-lettering"
 category: "Design Culture"
-description: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante."
+description: "Charli XCX\'s quarantine album is, like, really, really good."
 socialImage: "/media/image-3.jpg"
 ---
 
