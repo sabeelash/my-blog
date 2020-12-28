@@ -9,7 +9,7 @@ tags:
   - "Open source"
   - "Gatsby"
   - "Typography"
-description: "the Charli quarantine album is, like, really, really good."
+description: "the Charli XCX's quarantine album is, like, really, really good."
 socialImage: "/media/gutenberg.jpg"
 ---
 
