@@ -9,7 +9,7 @@ tags:
   - "Open source"
   - "Gatsby"
   - "Typography"
-description: "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible."
+description: "the Charli XCX\'s quarantine album is, like, really, really good."
 socialImage: "/media/gutenberg.jpg"
 ---
 
