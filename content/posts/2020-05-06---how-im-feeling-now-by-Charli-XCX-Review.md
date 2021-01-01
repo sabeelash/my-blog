@@ -7,7 +7,7 @@ slug: "how-im-feeling-now-review"
 category: "Album Review"
 tags:
   - "Charli XCX"
-  - "how i\'m feeling right now"
+  - "how i'm feeling right now"
 description: "Charli XCX's quarantine album is, like, really, really good."
 
 socialImage: "/media/image-2.jpg"
