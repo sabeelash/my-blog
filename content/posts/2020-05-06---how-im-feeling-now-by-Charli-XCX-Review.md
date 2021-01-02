@@ -33,9 +33,7 @@ years* echo feelings of genuine affection.
 from her *Pop 2* EP, and with Dylan Brady on the production, it\'s
 easily one of the superior cuts on here. Brady can also be heard on
 *Anthems* too, where Charli reflects on day-to-day lockdown life (*I\'m
-so bored, woo/*
-
-*Wake up late and eat some cereal/Try my best to be physical/Lose myself
+so bored, woo/Wake up late and eat some cereal/Try my best to be physical/Lose myself
 in a TV show/Staring out to oblivion/All my friends are invisible*).
 
 2019\'s Charli, which was polished and refined, sits in stark contrast
