@@ -1,5 +1,5 @@
 ---
-title: how i'm feeling now Album Review
+title: Charli XCX - how i'm feeling now Album Review
 date: "2020-05-06T10:46:37.121Z"
 template: "post"
 draft: false
